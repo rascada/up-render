@@ -4,6 +4,9 @@
   "description": "gui cli for front-render",
   "dependencies": {
     "aja": "^0.4.1",
+    "express": "^4.13.3",
+    "front-render": "^0.1.0",
+    "socket.io": "^1.3.7",
     "vue": "^1.0.0"
   },
   "devDependencies": {
@@ -30,11 +33,8 @@
     "type": "git",
     "url": "git+https://github.com/rascada/up-render.git"
   },
-  "bugs": "https://github.com/rascada/Pogoda/issues",
+  "homepage": "https://github.com/rascada/up-render#readme",
+  "bugs": "https://github.com/rascada/up-render/issues",
   "author": "Damian Martyniak",
-  "license": "UNLICENSED",
-  "bugs": {
-    "url": "https://github.com/rascada/up-render/issues"
-  },
-  "homepage": "https://github.com/rascada/up-render#readme"
+  "license": "UNLICENSED"
 }
