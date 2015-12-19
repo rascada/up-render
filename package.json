@@ -1,6 +1,6 @@
 {
   "name": "up-render",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "gui cli for front-render",
   "dependencies": {
     "aja": "^0.4.1",
